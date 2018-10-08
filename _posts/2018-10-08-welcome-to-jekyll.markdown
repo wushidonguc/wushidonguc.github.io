@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: To be constructred
+title:  "Not available yet"
 date:   2018-10-08 18:03:16 -0500
 categories: jekyll update
 ---
