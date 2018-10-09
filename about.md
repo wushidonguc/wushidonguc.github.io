@@ -21,6 +21,6 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/wushidonguc/two-stream-action-recognition-keras">Two stream CNNs for video action recognition (Keras)</a></li>
+	<li><a href="{{ site.url }}/two-stream-action-recognition-keras">Two-stream CNNs for video action recognition (Keras)</a></li>
   (More will be coming soon ...)
 </ul>
