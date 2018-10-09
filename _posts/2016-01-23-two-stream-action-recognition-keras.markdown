@@ -1,5 +1,5 @@
 ---
-title: "Two-stream CNN for video action recognition (Keras)"
+title: "Two-stream CNNs for video action recognition (Keras)"
 layout: post
 date: 2016-01-23 22:10
 tag: CNN, action recognition, keras
