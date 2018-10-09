@@ -44,7 +44,7 @@ We use spatial and temporal stream cnn under the Keras framework to reproduce pu
 
 ## Motion input data -> stacked optical flows
 
-  Download the preprocessed tvl1 optical flow dataset directly from https://github.com/feichtenhofer/twostreamfusion. 
+  Download the preprocessed tvl1 optical flow dataset directly from [https://github.com/feichtenhofer/twostreamfusion](https://github.com/feichtenhofer/twostreamfusion). 
 
   ```
   wget http://ftp.tugraz.at/pub/feichtenhofer/tsfusion/data/ucf101_tvl1_flow.zip.001
