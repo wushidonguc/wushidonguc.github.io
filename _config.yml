@@ -16,8 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/resume.pdf
 
-url: http://localhost:4000
-#https://wushidonguc.github.io
+url: https://wushidonguc.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
