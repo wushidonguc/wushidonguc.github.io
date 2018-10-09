@@ -1,7 +1,7 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Two-stream-action-recognition-keras"
 layout: post
-date: 2016-01-23 22:10
+date: 2018-10-09 12:02
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: johndoe
+author: wushidong
 externalLink: false
 ---
 
