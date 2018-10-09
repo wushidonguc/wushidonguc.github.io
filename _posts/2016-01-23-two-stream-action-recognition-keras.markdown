@@ -56,6 +56,7 @@ We use spatial and temporal stream cnn under the Keras framework to reproduce pu
 
 
 # Training
+
 ## Spatial-stream cnn
 
   *  We classify each video by looking at a single frame. We use ImageNet pre-trained models and transfer learning to retrain Inception on our data. We first fine-tune the top dense layers for 10 epochs and then retrain the top two inception blocks.
