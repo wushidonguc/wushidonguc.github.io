@@ -11,7 +11,7 @@ layout: page
 <h2>Competencies</h2>
 <ul class="skill-list">
 	<li>Machine learning and deep learning (Keras, TensorFlow, multi-GPUs)</li>
-	<li>High-performance computing (MPI, OpenMP, Cuda, etc.)</li>
+	<li>High-performance computing</li>
 	<li>C/C++, Python</li>
 	<li>Theoretical physics</li>
 	<li>Device modeling</li>
