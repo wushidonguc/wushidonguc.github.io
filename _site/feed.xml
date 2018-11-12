@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-10T01:18:06-05:00</updated><id>http://localhost:4000/</id><title type="html">Wushi Dong</title><subtitle>This personal website is still under construction ...</subtitle><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-06:00</published><updated>2016-02-24T22:48:00-06:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-11T23:42:47-06:00</updated><id>http://localhost:4000/</id><title type="html">Wushi Dong</title><subtitle>This personal website is still under construction ...</subtitle><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-06:00</published><updated>2016-02-24T22:48:00-06:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -328,7 +328,36 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Two-stream CNNs for video action recognition (Keras)</title><link href="http://localhost:4000/two-stream-action-recognition-keras/" rel="alternate" type="text/html" title="Two-stream CNNs for video action recognition (Keras)" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/two-stream-action-recognition-keras</id><content type="html" xml:base="http://localhost:4000/two-stream-action-recognition-keras/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/two_stream.png&quot; alt=&quot;Project Image&quot; /&gt;&lt;/p&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Swan</title><link href="http://localhost:4000/swan/" rel="alternate" type="text/html" title="Swan" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/swan</id><content type="html" xml:base="http://localhost:4000/swan/">&lt;h1 id=&quot;swan&quot;&gt;Swan&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Swan&lt;/strong&gt; (&lt;strong&gt;S&lt;/strong&gt;elf-consistent &lt;strong&gt;wan&lt;/strong&gt;nier-function-based quantum transport solver) is an open-source C++ software suitable for large-scale atomistic simulations of electronic structure and transport properties in nano-devices.
+By using a Wannier function basis (as implemented in the &lt;a href=&quot;http://wannier.org&quot;&gt;Wannier90&lt;/a&gt; package) to accurately describe the electronic bands, our code is able to efficiently model device structures with first-principles accuracy at a minimal cost of tight-binding calculations.
+It couples the Keldysh non-equilibrium Green’s function formalism and Poisson solver to generate the inhomogeneous charge densities self-consistently with the electrostatic potential profile for the simulated device region. The parallel implementation of the code uses the standard Message Passing Interface (MPI).&lt;/p&gt;
+
+&lt;p&gt;For more details, please refer to the related paper “Quantum electron transport in ohmic edge contacts between two-dimensional materials” (&lt;a href=&quot;https://arxiv.org/abs/1811.02135&quot;&gt;https://arxiv.org/abs/1811.02135&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Author: Wushi Dong (dongws@uchicago.edu) of the Physics Department at The University of Chicago. (Advisor: Peter B. Littlewood)&lt;/p&gt;
+
+&lt;p&gt;The author would like to acknowledge the C++ linear algebra library Armadillo.&lt;/p&gt;
+
+&lt;h1 id=&quot;installation&quot;&gt;Installation&lt;/h1&gt;
+
+&lt;p&gt;Please install the Armadillo package via the download page:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://arma.sourceforge.net/download.html&quot;&gt;http://arma.sourceforge.net/download.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Then install Swan by running the installation file provided in the package:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sh install.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;example-run&quot;&gt;Example run&lt;/h1&gt;
+
+&lt;p&gt;To demonstrate the usage of our code, we provide an example run which simulates the 2D edge contact structure studied in our paper (&lt;a href=&quot;https://arxiv.org/abs/1811.02135&quot;&gt;https://arxiv.org/abs/1811.02135&lt;/a&gt;). To run this example:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd example_run/
+sh run.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>wushidong</name></author><category term="project" /><category term="quantum-transport, negf, electron-transport, tight-binding, wannier90, semiconductor-physics" /><summary type="html">Swan</summary></entry><entry><title type="html">Two-stream CNNs for video action recognition (Keras)</title><link href="http://localhost:4000/two-stream-action-recognition-keras/" rel="alternate" type="text/html" title="Two-stream CNNs for video action recognition (Keras)" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/two-stream-action-recognition-keras</id><content type="html" xml:base="http://localhost:4000/two-stream-action-recognition-keras/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/two_stream.png&quot; alt=&quot;Project Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://opensource.org/licenses/MIT&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/License-MIT-yellow.svg&quot; alt=&quot;License: MIT&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://zenodo.org/badge/latestdoi/127003611&quot;&gt;&lt;img src=&quot;https://zenodo.org/badge/127003611.svg&quot; alt=&quot;DOI&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
