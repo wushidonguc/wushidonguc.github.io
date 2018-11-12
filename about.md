@@ -22,5 +22,6 @@ layout: page
 
 <ul>
 	<li><a href="{{ site.url }}/two-stream-action-recognition-keras">Two-stream CNNs for video action recognition (Keras)</a></li>
-  (More will be coming soon ...)
+ 	<li><a href="{{ site.url }}/swan"> Swan: An open-source C++ software for nanoscale quantum electron transport simulations</a></li>
+ (More will be coming soon ...)
 </ul>
