@@ -1,7 +1,7 @@
 ---
 title: "Two-stream CNNs for video action recognition (Keras)"
 layout: post
-date: 2016-01-23 22:10
+date: 2018-10-23 20:10
 tag: CNN, action recognition, keras
 headerImage: true
 projects: true
@@ -16,7 +16,7 @@ externalLink: false
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/127003611.svg)](https://zenodo.org/badge/latestdoi/127003611) 
 
-We use spatial and temporal stream cnn under the Keras framework to reproduce published results on UCF-101 action recognition dataset. For the source code, please refer to <a href="https://github.com/wushidonguc/two-stream-action-recognition-keras" target="_blank">my github repository</a>.
+We use spatial and temporal stream cnn under the Keras framework to reproduce published results on UCF-101 action recognition dataset. For the source code, please refer to <a href="https://github.com/wushidonguc/two-stream-action-recognition-keras" target="_blank">my GitHub repository</a>.
 
 
 # References
