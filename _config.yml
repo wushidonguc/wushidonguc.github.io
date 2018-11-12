@@ -1,6 +1,6 @@
 # main text of home
 name: Wushi Dong
-bio: Theoretical Physicist | Deep Learning Researcher | Ph.D. Candidate at The University of Chicago
+bio: Deep Learning Researcher | Condensed Matter Physicist | Ph.D. Candidate at The University of Chicago
 
 # twitter summary info
 description: This personal website is still under construction ...
@@ -54,7 +54,7 @@ email: dongws@uchicago.edu
 authors:
     wushidong:
         name: Wushi Dong
-        bio: Theoretical Physicist | Deep Learning Researcher | Ph.D. Candidate at The University of Chicago
+        bio: Deep Learning Researcher | Condensed Matter Physicist | Ph.D. Candidate at The University of Chicago        
         external-image: false
         picture: assets/images/profile.jpg
         linkedin: dongws
