@@ -44,3 +44,6 @@ To demonstrate the usage of our code, we provide an example run which simulates 
 cd example_run/
 sh run.sh
 ```
+We show here the converged electrostatic potential profiles under different temperatures. (Inset: comparison between our self-consistent simulation results and analytical predictions using Thomas-Fermi theory.)
+
+![Project Image]({{ site.url }}/assets/swan_potential.png)
