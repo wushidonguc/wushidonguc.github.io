@@ -11,7 +11,6 @@ category: project
 author: wushidong
 externalLink: false
 ---
-![Project Image]({{ site.url }}/assets/two_stream.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/127003611.svg)](https://zenodo.org/badge/latestdoi/127003611) 
@@ -56,6 +55,8 @@ We use spatial and temporal stream cnn under the Keras framework to reproduce pu
 
 
 # Training
+
+![Project Image]({{ site.url }}/assets/two_stream.png)
 
 ## Spatial-stream cnn
 
