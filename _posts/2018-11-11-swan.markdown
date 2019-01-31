@@ -48,7 +48,7 @@ We present in the following two results that one can extract from the above simu
 
 ![Project Image]({{ site.url }}/assets/swan_potential.png)
 
-The second one is the I-V characteristics under different temperatures for high and low doping levels respectively. From this figure, one can see how sufficient doping levels can lead to ohmic behavior for the edge contact.
+The second one is the I-V characteristics under different temperatures for high and low doping levels respectively. From this figure, one can see how doping levels affect the ohmic behavior of the edge contact.
 
 ![Project Image]({{ site.url }}/assets/figure_IV.png)
 
