@@ -44,6 +44,12 @@ To demonstrate the usage of our code, we provide an example run which simulates 
 cd example_run/
 sh run.sh
 ```
-We show here the converged electrostatic potential profiles under different temperatures. (Inset: comparison between our self-consistent simulation results and analytical predictions using Thomas-Fermi theory.)
+We present in the following two results that one can extract from the above simulation. The first figure shows the converged electrostatic potential profiles under different temperatures. (Inset: comparison between our self-consistent simulation results and analytical predictions using Thomas-Fermi theory.)
 
 ![Project Image]({{ site.url }}/assets/swan_potential.png)
+
+The second one is the I-V characteristics under different temperatures for high and low doping levels respectively. From this figure, one can see how sufficient doping levels can lead to ohmic behavior for the edge contact.
+
+![Project Image]({{ site.url }}/assets/figure_IV.png)
+
+
