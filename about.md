@@ -20,7 +20,7 @@ Equipped with knowledge of both software and hardware, I am passionate about tac
 	<li>Deep learning (Keras, TensorFlow, Horovod multi-GPU training, Singularity container)</li>
 	<li>high-performance computing (MPI, cloud computing)</li>
 	<li>Python</li>
-	<li>C/C++ (MPI)</li>
+	<li>C/C++</li>
 	<li>Theoretical physics</li>
 	<li>Device modeling</li>
 </ul>
