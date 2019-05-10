@@ -16,7 +16,7 @@ Mapping all the neurons in the brain requires automatic reconstruction of entire
 
 ![Project Image]({{ site.url }}/assets/fib25_training1.png)
 
-The Flood-Filling Networks (FFN) architecture can achieve leading performance. 
+The Flood-Filling Networks (FFN) architecture can achieve leading performance. 
 
 ![Project Image]({{ site.url }}/assets/ffn1.png)
 
