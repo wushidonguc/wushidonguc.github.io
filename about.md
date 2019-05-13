@@ -7,7 +7,7 @@ layout: page
 <h2>Bio</h2>
 Hi, my name is Wushi Dong. I am a Ph.D. student in the Physics department at the University of Chicago. I have recently defended my thesis, and plan to graduate in June 2019. <br/>
 
-Lately, I have been leading the project on distributed learning for brain image segmentation at Argonne Leadership Computing Facilities (ALCF). We successfully scaled the training of the leading architecture Flood-Filling Network (FFN) up to 2048 Knights Landing nodes (131,072 cores) on the Theta supercomputer, and achieved training efficiency 3 times faster than previous best results.  <br/>
+Lately, I have been leading the project on distributed learning for brain image segmentation at Argonne Leadership Computing Facilities (ALCF). We successfully scaled the training of the leading architecture Flood-Filling Network (FFN) up to 2048 Knights Landing nodes (131,072 cores) on the Theta supercomputer, and achieved training efficiency 3 times faster than previous best results. <br/>
 
 My Ph.D. research is focused on modeling quantum electron transport in 2D semiconductors based on quantum field theory for next-generation chip design. To perform such calculations, I independently developed a novel computational pipeline including an open-source parallel C++ software. <br/>
 
