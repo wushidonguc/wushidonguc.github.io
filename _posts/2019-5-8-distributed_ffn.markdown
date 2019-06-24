@@ -11,6 +11,8 @@ category: project
 author: Wushi Dong
 externalLink: false
 --- 
+Distributed training of Flood-Filling Networks (FFNs) for instance segmentation in 3d volumes implemented with Horovod.
+For more details, please see our paper [https://arxiv.org/abs/1905.06236](https://arxiv.org/abs/1905.06236).
 
 Mapping all the neurons in the brain requires automatic reconstruction of entire cells from volume electron microscopy data. The raw data and human anotations are shwon in the figures below.
 
