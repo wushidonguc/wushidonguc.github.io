@@ -5,15 +5,15 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h2>Bio</h2>
-Hi, my name is Wushi Dong. I am a Ph.D. student in the Physics department at the University of Chicago. I have recently defended my thesis, and plan to graduate in June 2019. <br/>
+Hi, my name is Wushi Dong. I am graduating as Ph.D. in Physics from the University of Chicago this August. Currently I am actively looking for jobs starting in October 2019. <br/>
 
-Lately, I have been leading the project on distributed learning for brain image segmentation at Argonne Leadership Computing Facilities (ALCF). We successfully scaled the training of the leading architecture Flood-Filling Network (FFN) up to 2048 Knights Landing nodes (131,072 cores) on the Theta supercomputer, and achieved training efficiency 3 times faster than previous best results. <br/>
+My latest project is on scaling distributed training of Flood Filling Network (FFN) for brain mapping at the Argonne Leadership Computing Facilities (ALCF), where I implemented synchronous and data-parallel distributed training on top of the published Google’s FFN code. My developed code was successfully scaled to 2048 Knights Land (KNL) nodes on the Theta supercomputer, achieving the same accuracy as previous best methods in only one-third the time cost.  <br/>
 
-My Ph.D. research is focused on modeling quantum electron transport in 2D semiconductors based on quantum field theory for next-generation chip design. To perform such calculations, I independently developed a novel computational pipeline including an open-source parallel C++ software. <br/>
+I gained my deep learning training during an internship at IBM Research, where I worked on developing a state-of-the-art video action recognition algorithm. My developed software at that time was later published on GitHub and now ranks top-5 in popularity among 38 repositories under the same category.  <br/>
 
-I gained my machine learning training from a research internship at IBM, where I achieved state-of-the-art results on brain-inspired deep learning algorithms for video action recognition. <br/>
+As for my PhD training, I completed an innovational project on developing a novel computational pipeline for modeling quantum electron transport in semiconductor devices, where I efficiently implemented numerical methods including Finite Difference Method (FDM), non-linear Poisson solver, self-consistent iteration, etc. This project resulted in both first-author publication in the American Chemical Society's (ACS) leading journal in the field, and {\it swan}, an original open-source parallel software in C++. <br/>
 
-Equipped with knowledge of both software and hardware, I am passionate about tackling real-world applications combining deep learning techniques and modern computing power.
+Equipped with the knowledge of both software and hardware, I am passionate about tackling big real-world problems by combining deep learning and massive modern computing power. <br/>
 
 <h2>Competencies</h2>
 <ul class="skill-list">
