@@ -17,12 +17,13 @@ Equipped with the knowledge of both software and hardware, I am passionate about
 
 <h2>Competencies</h2>
 <ul class="skill-list">
-	<li>Deep learning (Keras, TensorFlow, Horovod multi-GPU training, Singularity container)</li>
-	<li>high-performance computing (MPI, cloud computing)</li>
+	<li>Deep learning (Keras, TensorFlow, Horovod distributed training)</li>
+	<li>High-performance computing (MPI, cloud computing)</li>
 	<li>Python</li>
-	<li>C/C++</li>
+	<li>C++</li>
 	<li>Theoretical physics</li>
 	<li>Device modeling</li>
+	<li>Computer vision (3D segmentation, video classification)</li>
 </ul>
 
 <h2>Projects</h2>
