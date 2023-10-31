@@ -1,0 +1,36 @@
+# Ignore build and site output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+
+# Ignore local configuration files
+.jekyll-metadata
+Gemfile.lock
+
+# Ignore macOS metadata files
+.DS_Store
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+.kateconfig
+*.kate-swp
+
+# Ignore backup files and swap files
+*~
+\#*\#
+.\#*
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Ignore configuration files for popular code editors
+.editorconfig
+*.tm_properties
+

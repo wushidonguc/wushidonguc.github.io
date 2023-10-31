@@ -1,0 +1,57 @@
+---
+title: "Swan: An open-source C++ software for nanoscale quantum electron transport simulations"
+layout: post
+date: 2018-11-11 22:10
+tag: [Quantum Physics, Device Physics, Semiconductors, 2D Materials,]
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "We use spatial and temporal stream cnn under the Keras framework to reproduce published results on UCF-101 action recognition dataset."
+category: project
+author: wushidong
+externalLink: false
+---
+
+<!--
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![DOI](https://zenodo.org/badge/157158073.svg)](https://zenodo.org/badge/latestdoi/157158073)
+-->
+
+<span style="background-color: #f8f8f8; padding: 20px; border-radius: 0px; display: inline-block; width: calc(100% - 20px);">
+Ever wondered why your devices aren't getting even faster? It turns out, the answer might lie in the tiny details of how metals and semiconductors meet in the transistors. In this project, we've built a simulation pipeline including an open-source C++ software based on MPI that allows us to unevil the secrets behind electronic behaviors at the atomic level. Our exploration into the 2D edge contact not only explained the formation of Schottky barriers but also found ways to reduce them effectively.<br><br>
+[Read paper >>](https://arxiv.org/pdf/1811.02135.pdf)<br>
+[View code >>](https://github.com/wushidonguc/swan)<br>
+<br>
+</span>
+
+The metal-semiconductor contact is a major factor limiting the shrinking of transistor dimension to further increase device performance. In-plane edge contacts have the potential to achieve lower contact resistance due to stronger orbital hybridization compared to conventional top contacts. However, a quantitative understanding of the electron transport properties in the edge contact is still lacking. In this work, we present full-band atomistic quantum transport simulations of the graphene-MoS<sub>2</sub> edge contact. By using a Wannier function basis to accurately describe the electronic bands, together with a full self-consistent solution of the electrostatics, we are able to efficiently model device structures on a micron scale, but with atomic level accuracy. We find that the potential barrier created by trapped charges decays fast with distance away from the interface, and is thus thin enough to enable efficient injection of electrons. This results in Ohmic behavior in its I-V characteristics, which agrees with experiments. Our results demonstrate the role played by trapped charges in the formation of a Schottky barrier, and how one can reduce the Schottky barrier height (SBH) by adjusting the relevant parameters of the edge contact system. Our framework can be extended conveniently to incorporate more general nanostructure geometries. For example, a full 3D solution of the electrostatics will also lead to better modeling of the electrical potential. Furthermore, better ab-initio calculations can be conveniently added to our methods to further improve their accuracy.
+
+## Results
+We present in the following results from the above simulation. The first figure shows the converged electrostatic potential and charge density profiles under different voltages. (Inset: comparison between our self-consistent simulation results and analytical predictions using Thomas-Fermi theory.) It also shows the Local Density of States (LDOS) side by side with the transmission spectrum.
+
+![Project Image]({{ site.url }}/assets/swan_potential.png)
+
+The second one is the I-V characteristics under different temperatures for high and low doping levels respectively. From this figure, one can see the effects of doping on the electron transport behavior of the edge contact device.
+
+![Project Image]({{ site.url }}/assets/figure_IV.png)
+
+
+## Methods
+**Swan** (**S**elf-consistent **Wan**nier-function-based quantum transport solver) is an open-source C++ software suitable for large-scale atomistic simulations of electronic structure and transport properties in nano-devices. The code is available for download on [my GitHub page](http://github.com/wushidonguc/swan).
+
+By using a Wannier function basis (as implemented in the [Wannier90](http://wannier.org) package) to accurately describe the electronic bands, our code is able to efficiently model device structures with first-principles accuracy at a minimal cost of tight-binding calculations.
+It couples the Keldysh non-equilibrium Green's function formalism and Poisson solver to generate the inhomogeneous charge densities self-consistently with the electrostatic potential profile for the simulated device region. The parallel implementation of the code uses the standard Message Passing Interface (MPI). We depicted our simulation pipeline as below:
+
+![Project Image]({{ site.url }}/assets/swan_pipeline.png)
+
+<h2>Publication</h2>
+* [Dong, Wushi, and Peter B. Littlewood. "Quantum electron transport in ohmic edge contacts between two-dimensional materials." ACS Applied Electronic Materials 1.6 (2019): 799-803.](https://arxiv.org/abs/1811.02135)
+
+<h2>Talks</h2>
+<ul class="skill-list">
+	<li><b>W. Dong</b>, P. B. Littlewood, <i>Computational study of quantum electron transport in ohmic edge contacts between two-dimensional materials</i>, American Physical Society (APS) March Meeting. (March 2018) </li>
+	<li><b>W. Dong</b>, P. B. Littlewood, <i>Ab initio simulation of metal contacts to 2D semiconductors with electron-phonon interactions</i>, Materials Research Society (MRS) Spring Meeting. (April 2017) </li>
+	<li><b>W. Dong</b>, P. B. Littlewood, <i>Ab initio simulation of metal contacts to 2D semiconductors with electron-phonon interactions</i>, APS March Meeting. (March 2017) </li>
+	<li><b>W. Dong</b>, A. L. Bezanilla, P. B. Littlewood, <i>Electron transport calculations with Wannier functions in van der Waals heterostructures</i>, APS March Meeting. (March 2016) </li>
+</ul>
+
