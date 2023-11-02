@@ -6,7 +6,7 @@ layout: page
 
 <h2>Bio</h2>
 
-Hi, my name is Wushi Dong. I currently work as an Applied Scientist at AWS, specializing in optimizing Deep Learning inference efficiency through compiler and HPC techniques. I am deeply committed to maximizing computing resources' efficiency and harnessing the full potential of deep learning technologies to capitalize on real-world opportunities at scale. With a background in theoretical physics and expertise in both software and hardware, I bring a unique perspective to the intersection of technology and innovation. <br/>
+Hi, my name is Wushi Dong (董悟时). I currently work as an Applied Scientist at AWS, specializing in optimizing Deep Learning inference efficiency through compiler and HPC techniques. I am deeply committed to maximizing computing resources' efficiency and harnessing the full potential of deep learning technologies to capitalize on real-world opportunities at scale. With a background in theoretical physics and expertise in both software and hardware, I bring a unique perspective to the intersection of technology and innovation. <br/>
 
 I obtained my Ph.D. in Physics from the University of Chicago, advised by Professor [Peter B. Littlewood](https://en.wikipedia.org/wiki/Peter_Littlewood). I received my bachelor degree in Physics from [the School of the Gifted Young (SGY)](http://en.scgy.ustc.edu.cn/) at the Univeristy of Science and Technology of China (USTC). <br/>
 
