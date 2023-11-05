@@ -77,6 +77,8 @@ Our work is an important step towards a complete simulation pipeline of the huma
 * <b>W. Dong</b>, M. Keceli, R. Vescovi, H. Li, C. Adams, E. Jennings, S. Flender, T. Uram, V. Vishwanath, N. Ferrier, N. Kasthuri, P. B. Littlewood, <i>Scaling Distributed Training of Flood-Filling Networks on HPC Infrastructure for Brain Mapping</i>, 2019 Argonne Leadership Computing Facility (ALCF) Simulation, Data, and Learning Workshop: Success Stories of Science Applications Using Simulations, Machine Learning Tools and Data Science. (Invited; Ocotober 2019)
 
 <h2>Press & Mentions</h2>
-* [Argonne Researchers to Share Scientific Computing Insights at SC19](https://www.hpcwire.com/off-the-wire/argonne-researchers-to-share-scientific-computing-insights-at-sc19/)
-
 * [To map the human brain, researchers first look to the octopus](https://sing.uchicago.edu/2022/08/16/to-map-the-human-brain-researchers-first-look-to-the-octopus/)
+
+* [What’s New in HPC Research: Brain Mapping, Earthquakes, Energy Efficiency & More](https://www.hpcwire.com/2019/06/12/whats-new-in-hpc-research-brain-mapping-earthquakes-energy-efficiency-more/)
+
+* [Argonne Researchers to Share Scientific Computing Insights at SC19](https://www.hpcwire.com/off-the-wire/argonne-researchers-to-share-scientific-computing-insights-at-sc19/)
